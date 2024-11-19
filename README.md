@@ -32,3 +32,12 @@ Includes advanced functionalities, such as:
 - Enhanced modular tools for more complex use cases.
 
 ----
+📈 Achievement
+🏆 Grade Achieved: 125% (including bonus functions).
+This project was built with precision and care to meet all requirements, including bonus features.
+
+----
+
+👤 Author
+G1iTch
+42 Login: mel-hamm
