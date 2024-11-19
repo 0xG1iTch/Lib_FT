@@ -31,4 +31,4 @@ Includes advanced functionalities, such as:
 - Linked list manipulation functions (`ft_lstnew`, `ft_lstadd`, etc.).
 - Enhanced modular tools for more complex use cases.
 
---
+----
